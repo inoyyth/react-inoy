@@ -1,6 +1,6 @@
 # react-inoy
 step to instalation package
-1. install noje js
+1. install nodejs
 2. install yarn => npm install -g yarn
 3. yarn init
 4. yarn add babel-core
