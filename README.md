@@ -25,9 +25,9 @@ for start server "yarn start" or "npm start"
 
 
 # setup .babelrc
-{
-  "presets": ["react", "es2015"]
-}
+ {
+   "presets": ["react", "es2015"]
+ }
 
 
 # setup webpack.config.js
